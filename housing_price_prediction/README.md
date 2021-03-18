@@ -147,5 +147,17 @@ These Recommendations are suggested for home sellers and real estate investors:
 - Consider purchasing properties without features like central air, fireplace,  full bath, wood deck, then install these features before selling.
 - Don’t forget to improve the quality of the basement and garage.
 
+## Areas for improvement
+**Qualitative study**
+- In-depth interviews/focus group discussion with buyers, sellers, investors and to understand their needs, priorities, and how and why decisions are made (i.e. what is special in the neighborhoods)
+- Ethnography and on-site visits
+- Expects talks (developers, inspectors)
+
+**Data and Methods**
+- Subgroup analysis (i.e., for extremely large houses)
+- Different neighborhoods (fixed/random effects, interactions)
+- Sample quality (i.e., weights, time of collection)
+- Different models for prediction and inference
+
 
 **Limitation:** This model has critical limitations. Since home valuations differ significantly in different locations, these model is only applicable for using to predict home values in Ames, IA (ideally from 2006 to 2010). However, the model design (i.e., the type of model, data transformation strategies, selected features) can be used as a reference for future housing model development.
